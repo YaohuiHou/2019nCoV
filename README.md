@@ -1,6 +1,6 @@
-# zworldranking
+# 2019nCoV疫情地图
 
-本项目使用了uniapp开发，可同时打包生成百度、头条、微信等小程序
+采用头条接口，制作分布地图点标记的轨迹和地区风险等级。
 
 uniAPP文档：https://uniapp.dcloud.io/
 
@@ -24,17 +24,6 @@ npm run dev:mp-toutiao
 npm run dev:mp-weixin
 ```
 
-## 打包项目
-```
-# 百度小程序
-npm run build:mp-baidu
+## 项目演示
 
-# 头条小程序
-npm run build:mp-toutiao
-
-# 微信小程序
-npm run build:mp-weixin
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<video src="./video.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
