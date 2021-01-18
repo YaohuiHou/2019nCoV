@@ -26,7 +26,4 @@ npm run dev:mp-weixin
 
 ## 项目演示
 
-<video id="video" controls="" preload="none">
-  <source id="mp4" src="https://fes.qyerstatic.com/llh4x-Oiw7xzRfI4kTj5Vngj30td" type="video/mp4">
-  <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+![项目演示gif](./videogif.gif)
