@@ -30,3 +30,11 @@ npm run dev:mp-weixin
   <source id="mp4" src="https://fes.qyerstatic.com/llh4x-Oiw7xzRfI4kTj5Vngj30td" type="video/mp4">
   <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
+
+<iframe 
+    height=600 
+    width=800 
+    src="https://fes.qyerstatic.com/llh4x-Oiw7xzRfI4kTj5Vngj30td" 
+    frameborder=0 
+    allowfullscreen>
+</iframe>
